@@ -1,0 +1,21 @@
+{
+  "name": "JUSDT Token List",
+  "logoURI": "https://www.jsonusdt.com/logo.png",
+  "keywords": ["jusdt", "stablecoin", "ethereum"],
+  "timestamp": "2025-05-21T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x047330be3669bB9C4bA12eaF1e0ed923026ff60c",
+      "name": "JUSDT",
+      "symbol": "JUSDT",
+      "decimals": 18,
+      "logoURI": "https://www.jsonusdt.com/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
