@@ -1,6 +1,6 @@
 {
   "name": "JUSDT Token List",
-  "logoURI": "https://www.jsonusdt.com/logo.png",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/QmYAJadTJNxKaejM9WRoa98giaJj3Bgk4YeMiqBZmFbdqg",
   "keywords": ["jusdt", "stablecoin", "ethereum"],
   "timestamp": "2025-05-21T00:00:00+00:00",
   "tokens": [
@@ -10,7 +10,7 @@
       "name": "JUSDT",
       "symbol": "JUSDT",
       "decimals": 18,
-      "logoURI": "https://www.jsonusdt.com/logo.png"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmYAJadTJNxKaejM9WRoa98giaJj3Bgk4YeMiqBZmFbdqg"
     }
   ],
   "version": {
